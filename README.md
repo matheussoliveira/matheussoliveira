@@ -4,7 +4,6 @@
 
 I'm Matheus, a Computer Science student and iOS developer from Brazil. I've been working with app development for two years, having solid experience, going from app conception to App Store publication.
 
-Here are some ideas to get you started:
 
 - 📍 Campinas, São Paulo.
 - 📱 Always thinking on ideias to solve problems with an app.
