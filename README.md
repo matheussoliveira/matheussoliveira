@@ -1,16 +1,22 @@
 ### Hello there <img src="https://i.pinimg.com/564x/6b/02/7f/6b027f6c200b5aa93f2db22d33c15486.jpg" width="25px">
 
-<!--
-**matheussoliveira/matheussoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 
+
+I'm Matheus, a Computer Science student and iOS developer from Brazil. I've been working with app development for two years, having solid experience, going from app conception to App Store publication.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Campinas, São Paulo.
+- 📱 Always thinking on ideias to solve problems with an app.
+- 👾 Love video games and emojis.
+
+# 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=matheussoliveira&show_icons=true&theme=gradient" alt="matheussoliveira" />
+
+ # 
+ 
+ Fell free to reach me on social medias. 🤗
+ 
+ <a href="https://www.linkedin.com/in/matheus-de-souza-oliveira-642691159/">
+  <img align="left" alt="Matheus's Linkdein" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
+</a>
